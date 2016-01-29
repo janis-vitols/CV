@@ -18,10 +18,10 @@ Jobless.cv do
       technologies "HTML5, Slim, JavaScript, jQuery, Ajax, CSS, Oracle DB, SQL, Linux, vim (neovim), OS X"\
         "PostgreSQL, Ruby, Ruby on Rails, Rake tasks, Solr, RSpec, Cucumber, Agile, Scrum"
       bulletin "Daily 'CRM Data' Ruby RoR application maintenance & development. Application is based "\
-        "on top of Oracle eBS. Provides much better user experience comparing to Oracle eBS CRM and Sales modules"
+        "on top of Oracle eBS."
       bulletin "Backend development: Ruby, Rake tasks & PL/SQL changes in Oracle eBS"
       bulletin "Frontend development: CSS, JS (jQuery)"
-      bulletin "User stories are covered with unit tests in RSpec and integration tests in Cucumber"
+      bulletin "User cases provided by customer are covered with unit tests in RSpec and integration tests in Cucumber"
       bulletin "For specific data reports write SQL queries"
 
       start_date "July 2014"
@@ -35,7 +35,7 @@ Jobless.cv do
       technologies "Oracle Siebel, eScript (JavaScript), Oracle DB, Java SE, Java ADF, Linux, Oracle UCM"
       bulletin "Daily Oracle Siebel configuration"
       bulletin "Large system development for Siebel Public Sector project, "\
-        "Security Program under Finland Ministry of Interior"
+        "Security Program under Public sector in Finland"
       bulletin "Business Service (script) development using eScript (JavaScript)"
       bulletin "Siebel Mobile / Open UI application development"
       bulletin "Created a custom solution to get backward communication "\
@@ -125,7 +125,7 @@ Jobless.cv do
     entry do
       title "Creative, Serious and Playful Science of Android Apps"
       company "Coursera"
-      homepage "https://class.coursera.org/androidapps101-001"
+      homepage "https://www.coursera.org/course/androidapps101"
       start_date "February 2014"
     end
 
