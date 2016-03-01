@@ -141,7 +141,34 @@ Jobless.cv do
       company "Coursera"
       homepage "https://www.coursera.org/course/interactivepython"
       start_date "May 2014"
+    end
 
+    entry do
+      title "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/work-smarter-not-harder"
+      start_date "September 2015"
+    end
+
+    entry do
+      title "Ruby on Rails: An Introduction"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/ruby-on-rails-intro"
+      start_date "February 2016"
+    end
+
+    entry do
+      title "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/learning-how-to-learn"
+      start_date "February 2016"
+    end
+
+    entry do
+      title "Rails with Active Record and Action Pack"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/rails-with-active-record"
+      start_date "February 2016"
     end
   end
 
