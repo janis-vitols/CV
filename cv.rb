@@ -25,7 +25,7 @@ Jobless.cv do
       bulletin "For specific data reports write SQL queries"
 
       start_date "July 2014"
-      end_date "Current"
+      end_date "March 2016"
     end
 
     entry do
@@ -169,6 +169,13 @@ Jobless.cv do
       company "Coursera"
       homepage "https://www.coursera.org/learn/rails-with-active-record"
       start_date "February 2016"
+    end
+
+    entry do
+      title "Ruby on Rails Web Services and Integration with MongoDB"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb"
+      start_date "April 2016"
     end
   end
 
