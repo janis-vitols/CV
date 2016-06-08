@@ -177,6 +177,13 @@ Jobless.cv do
       homepage "https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb"
       start_date "April 2016"
     end
+
+    entry do
+      title "HTML, CSS, and Javascript for Web Developers"
+      company "Coursera"
+      homepage "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
+      start_date "May 2016"
+    end
   end
 
   other_experience do
