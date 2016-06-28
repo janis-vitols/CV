@@ -184,6 +184,13 @@ Jobless.cv do
       homepage "https://www.coursera.org/learn/html-css-javascript-for-web-developers"
       start_date "May 2016"
     end
+
+    entry do
+      title "Up and Running with Backbone.js"
+      company "Lynda"
+      homepage "https://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html"
+      start_date "June 2016"
+    end
   end
 
   other_experience do
