@@ -118,7 +118,7 @@ Jobless.cv do
     end
 
     entry do
-      title "Java SE7 Fundamentals Ed 2"
+      title "Java SE8 Fundamentals Ed 2"
       company "Oracle University course provided @Baltijas Datoru Akadēmija"
     end
 
@@ -190,6 +190,20 @@ Jobless.cv do
       company "Lynda"
       homepage "https://www.lynda.com/Backbonejs-tutorials/Up-Running-Backbonejs/163089-2.html"
       start_date "June 2016"
+    end
+
+    entry do
+      title "Anatomy of Backbone.js"
+      company "Code School"
+      homepage "https://www.codeschool.com/courses/anatomy-of-backbone-js"
+      start_date "June 2016"
+    end
+
+    entry do
+      title "Anatomy of Backbone.js Part 2"
+      company "Code School"
+      homepage "https://www.codeschool.com/courses/anatomy-of-backbone-js-part-2"
+      start_date "July 2016"
     end
   end
 
